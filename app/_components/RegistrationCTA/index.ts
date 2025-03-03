@@ -1,0 +1,1 @@
+export { RegistrationCTA } from "./RegistrationCTA"
