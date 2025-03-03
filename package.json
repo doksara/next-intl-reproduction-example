@@ -1,0 +1,36 @@
+{
+  "name": "next-intl-boilerplate",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "prepare": "panda codegen --clean",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@lottiefiles/react-lottie-player": "^3.5.4",
+    "framer-motion": "^11.3.19",
+    "lodash": "^4.17.21",
+    "next": "14.2.5",
+    "next-intl": "^3.26.5",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-intersection-observer": "^9.13.0",
+    "react-swipeable": "^7.0.1",
+    "sharp": "^0.33.5"
+  },
+  "devDependencies": {
+    "@builder.io/partytown": "^0.10.2",
+    "@pandacss/dev": "^0.42.0",
+    "@pandacss/eslint-plugin": "^0.1.9",
+    "@types/lodash": "^4.17.7",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5",
+    "typescript": "^5"
+  }
+}
