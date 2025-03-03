@@ -1,3 +1,16 @@
 {
-  "hello": "Hello EN"
+  "hello": "Hello EN",
+  "common_navigation_about": "About",
+  "common_navigation_features": "Features",
+  "common_navigation_resources": "Resources",
+  "common_navigation_faq": "FAQ",
+  "common_navigation_tutorials": "Tutorials",
+  "common_navigation_contact": "Contact",
+  "common_navigation_registration": "Registration",
+  "common_navigation_register": "Register",
+  "common_navigation_helpCenter": "Help center",
+  "common_navigation_cookies": "Cookies",
+  "common_navigation_tos": "Terms of service",
+  "common_navigation_privacyPolicy": "Privacy policy",
+  "common_navigation_legal": "Legal"
 }
